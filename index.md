@@ -1,5 +1,7 @@
 # CV Juliette Huguet
 
+![Portrait de Juliette Huguet.](Photo.jpg "Portrait de Juliette Huguet.")
+
 ## Chargée de communication
 
 ###### 09.03.1992 | 76000, Rouen - Permis B
@@ -79,6 +81,3 @@
 * Fiabilité
 * Autonomie
 * Créativité
-    
-
-![Portrait de Juliette Huguet.](Photo.jpg "Portrait de Juliette Huguet.")
