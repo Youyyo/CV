@@ -81,4 +81,4 @@
 * Créativité
     
 
-![This is a alt text.](/image/Photo.png "Portrait de Juliette Huguet.")
+![Portrait de Juliette Huguet.](Photo.jpg "Portrait de Juliette Huguet.")
