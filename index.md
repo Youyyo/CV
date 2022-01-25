@@ -1,6 +1,6 @@
 # CV Juliette Huguet
 
-![Portrait de Juliette Huguet.](Photo.jpg "Portrait de Juliette Huguet.")
+![Portrait de Juliette Huguet.](Photo.jpg "Portrait de Juliette Huguet." width=500)
 
 ## Chargée de communication
 
