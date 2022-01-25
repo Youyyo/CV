@@ -30,7 +30,7 @@
 
 > **Assistante attachée de presse**
        >> LES FRANCOPHONIES DE LIMOGES | 2019 (1 MOIS)
-       >>> FESTIVAL D'AVIGNON | 2019 (1 MOIS)
+       >> FESTIVAL D'AVIGNON | 2019 (1 MOIS)
 
 > **Vendeuse en prêt-à-porter**
        >> COTÉLAC, ROUEN | 2017 - 2019 (2 ANS)
